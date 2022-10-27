@@ -1,0 +1,78 @@
+{
+  "popular": [
+    {
+      "id": 1,
+      "name": "Vegetables",
+      "price": 250,
+      "stars": "5",
+      "img": "https://cdn.britannica.com/36/123536-050-95CB0C6E/Variety-fruits-vegetables.jpg",
+      "prodinfo": "Fresh vegetables for daily meal",
+      "location": "Dhaka",
+      "crtedat": "12:17:40:2022",
+      "updatedat": "12:17:40:2022",
+      "typeid": 2
+    },
+    {
+      "id": 2,
+      "name": "dfgsdfgsd",
+      "price": 554,
+      "stars": "4",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR23z1NNWxNvOvn6QC4YEv8VqfbFVtafJVsk_w3oaKy&s",
+      "prodinfo": "sdgsdfgsdfgsd",
+      "location": "Dhaka",
+      "crtedat": "15:56:28:2022",
+      "updatedat": "",
+      "typeid": 2
+    },
+    {
+      "id": 3,
+      "name": "fghfgh",
+      "price": 567,
+      "stars": "5",
+      "img": "https://image.shutterstock.com/image-photo/healthy-food-clean-eating-selection-260nw-722718082.jpg",
+      "prodinfo": "rfygdfhgsfgh",
+      "location": "dfghdf",
+      "crtedat": "16:14:55:2022",
+      "updatedat": "",
+      "typeid": 2
+    }
+  ],
+  "recommended": [
+    {
+      "name": "Vegetables",
+      "price": 250,
+      "stars": "5",
+      "img": "https://media.istockphoto.com/photos/selection-of-american-food-picture-id931308812?k=20&m=931308812&s=612x612&w=0&h=Tudia4RSCvfpWZhli0ehScrzeCtbwvTqB9BZaCta_qA=",
+      "prodinfo": "Fresh vegetables for daily meal",
+      "location": "Dhaka",
+      "crtedat": "12:17:40:2022",
+      "updatedat": "12:17:40:2022",
+      "typeid": 2,
+      "id": 100001
+    },
+    {
+      "id": 100002,
+      "name": "tuhgjh",
+      "price": 65,
+      "stars": "4",
+      "img": "https://img.freepik.com/premium-photo/big-hamburger-with-double-beef-french-fries_252907-8.jpg?w=2000",
+      "prodinfo": "tueretyjhdtfgh",
+      "location": "pabna",
+      "crtedat": "15:57:9:2022",
+      "updatedat": "",
+      "typeid": 2
+    },
+    {
+      "id": 100003,
+      "name": "yhdfgh",
+      "price": 454,
+      "stars": "4",
+      "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OXx8fGVufDB8fHx8&w=1000&q=80",
+      "prodinfo": "erfgdfg",
+      "location": "dfgfg",
+      "crtedat": "16:15:24:2022",
+      "updatedat": "",
+      "typeid": 2
+    }
+  ]
+}
