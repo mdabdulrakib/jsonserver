@@ -35,9 +35,9 @@
       "crtedat": "10:11:20:2022",
       "updatedat": "",
       "typeid": 2
-    },
-
+    }
   ],
+  
   "recommended": [
     {
       "name": "Burger",
@@ -75,7 +75,5 @@
       "typeid": 2,
       "id": 10003
     }
-
-
   ]
 }
