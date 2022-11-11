@@ -36,8 +36,8 @@
       "updatedat": "",
       "typeid": 2
     }
+
   ],
-  
   "recommended": [
     {
       "name": "Burger",
@@ -56,7 +56,7 @@
       "price": 200,
       "stars": "5",
       "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Egg_Sandwich.jpg",
-      "prodinfo": "4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer sandwitch",
+      "prodinfo": "4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer sandwitch4 layer sandwitch4 layer sandwitch4 layer 4 layer ",
       "location": "Dhaka",
       "crtedat": "20:3:12:2022",
       "updatedat": "",
@@ -75,5 +75,6 @@
       "typeid": 2,
       "id": 10003
     }
+
   ]
 }
