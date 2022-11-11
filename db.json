@@ -98,7 +98,30 @@
       "updatedat": "10:18:11:2022",
       "typeid": 2,
       "id": 10003
+    },
+    {
+      "name": "Tandoori",
+      "price": 400,
+      "stars": "5",
+      "img": "https://media.istockphoto.com/id/1295633127/photo/grilled-chicken-meat-and-fresh-vegetable-salad-of-tomato-avocado-lettuce-and-spinach-healthy.jpg?s=612x612&w=0&k=20&c=Qa3tiqUCO4VpVMQDXLXG47znCmHr_ZIdoynViJ8kW0E=",
+      "prodinfo": "Very tasty chicken tandury",
+      "location": "Rajshahi",
+      "crtedat": "10:35:10:2022",
+      "updatedat": "",
+      "typeid": 2,
+      "id": 10004
+    },
+    {
+      "name": "all food",
+      "price": 400,
+      "stars": "5",
+      "img": "https://ychef.files.bbci.co.uk/976x549/p04tx3m6.jpg",
+      "prodinfo": "fghsfdghsfgdhsfgh",
+      "location": "pabna",
+      "crtedat": "20:12:58:2022",
+      "updatedat": "20:13:35:2022",
+      "typeid": 2,
+      "id": 10005
     }
-
   ]
 }
