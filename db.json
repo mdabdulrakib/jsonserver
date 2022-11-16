@@ -47,18 +47,6 @@
       "updatedat": "",
       "typeid": 2,
       "id": 5
-    },
-    {
-      "name": "Mixed item",
-      "price": 450,
-      "stars": "4",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg",
-      "prodinfo": "kghkglkghjklg",
-      "location": "dhaka",
-      "crtedat": "20:11:42:2022",
-      "updatedat": "20:12:45:2022",
-      "typeid": 2,
-      "id": 6
     }
   ],
   "recommended": [
@@ -109,18 +97,6 @@
       "updatedat": "",
       "typeid": 2,
       "id": 10004
-    },
-    {
-      "name": "all food",
-      "price": 400,
-      "stars": "5",
-      "img": "https://ychef.files.bbci.co.uk/976x549/p04tx3m6.jpg",
-      "prodinfo": "fghsfdghsfgdhsfgh",
-      "location": "pabna",
-      "crtedat": "20:12:58:2022",
-      "updatedat": "20:13:35:2022",
-      "typeid": 2,
-      "id": 10005
     }
   ]
 }
