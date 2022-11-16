@@ -59,18 +59,6 @@
       "updatedat": "20:12:45:2022",
       "typeid": 2,
       "id": 6
-    },
-    {
-      "id": 7,
-      "name": "Sandwich",
-      "price": 300,
-      "stars": "5",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8o6BmBnCSOD0js2NJD2FgvCvVumnIJgpfoasMh54Dyg&s",
-      "prodinfo": "dghgfhtyhfghfgjhjfghfghsfg",
-      "location": "Dhaka",
-      "crtedat": "21:40:27:2022",
-      "updatedat": "",
-      "typeid": 2
     }
   ],
   "recommended": [
@@ -133,18 +121,6 @@
       "updatedat": "20:13:35:2022",
       "typeid": 2,
       "id": 10005
-    },
-    {
-      "id": 10006,
-      "name": "Hotdog",
-      "price": 200,
-      "stars": "4",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQun0SrJGd_aucBxm2nIT7IXFkhjrToNOT4cwr_A0Tp&s",
-      "prodinfo": "kjklhgjlhgjklhgkjlkjhbgjkfkghkjh",
-      "location": "Pabna",
-      "crtedat": "21:42:53:2022",
-      "updatedat": "",
-      "typeid": 2
     }
   ]
 }
